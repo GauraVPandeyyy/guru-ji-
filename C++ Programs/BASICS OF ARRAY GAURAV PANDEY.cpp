@@ -4,7 +4,7 @@ int main ( ) {
 	
 	printf("enter values for first aaray \n");
 	
-	for (i=0;i<5;i++) {
+	for (i=0;i<6;i++) {
 		scanf("%d",&arr1[i]);
 	}
 	
